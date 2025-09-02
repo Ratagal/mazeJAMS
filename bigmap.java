@@ -12,7 +12,7 @@ import java.util.Collections;
 
 public class bigmap {
 
-    // her er alt hvad du behøver at mudelere tses
+    // her er alt hvad du behøver at mudelere tseskjhgghgjjgjhgh
     private static final int Height = 30;
     private static final int Width = 98;
     private static int antalPits = 300; // sæt mængden af pits
@@ -639,4 +639,5 @@ public static JPanel buttonPanel(){
     return buttonPanel;
 }
 }
+
 
